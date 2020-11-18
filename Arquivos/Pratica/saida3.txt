@@ -1,0 +1,2 @@
+Nome=Thiago|Endereco=Casa|Curso=Computacao|
+Nome=Ivo|Endereco=CasaDele|Curso=Computacao|
